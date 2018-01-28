@@ -1,0 +1,13 @@
+{
+  "name": "ol4-dist",
+  "homepage": "https://github.com/FarmShots/ol4-dist",
+  "_release": "f921e7b4df",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "f921e7b4dfebe4846d2dfe86f51fff93d07dcde7"
+  },
+  "_source": "git://github.com/FarmShots/ol4-dist.git",
+  "_target": "master",
+  "_originalSource": "git://github.com/FarmShots/ol4-dist"
+}
